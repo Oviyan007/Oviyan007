@@ -1,12 +1,12 @@
 ![logo](https://github.com/Oviyan007/Oviyan-S/blob/main/banner%20linkedin.png)
 <h1 align="center">Hi 👋, I'm Oviyan S</h1>
-<h3 align="center">A passionate frontend developer from India |Cybersecurity Enthusiasts</h3>
+<h3 align="center">A passionate fullstack developer from India </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oviyan007&label=Profile%20views&color=0e75b6&style=flat" alt="oviyan007" /> </p>
 
-- 🔭 I’m currently Studying **3rd year B.Tech(IT)**
+- 🔭 I’m currently Studying **Final year B.Tech(IT)**
 
 - 🌱 I’m currently learning **Django ,React**
 
