@@ -1,4 +1,5 @@
-![logo](https://github.com/Oviyan007/Oviyan-S/blob/main/banner%20linkedin.png)
+![image](https://github.com/user-attachments/assets/48d41134-ec87-4a1c-8925-0d58aff2b5c6)
+
 <h1 align="center">Hi 👋, I'm Oviyan S</h1>
 <h3 align="center">A passionate fullstack developer from India </h3>
 
