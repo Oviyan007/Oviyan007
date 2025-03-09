@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **[Mail](mailto:Oviyan.btech@gmail.com)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1fByG-0QGoz3iS9dO4oOtBiSav99wYLVG/view?usp=sharing)**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
